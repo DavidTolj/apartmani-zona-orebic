@@ -1,0 +1,18 @@
+APARTMANI ZONA — ISPRAVNE GALERIJE FINAL
+
+Urađeno:
+- Svih 6 smještajnih jedinica ima potpuno odvojenu galeriju.
+- Fotografije više nisu pomiješane između jedinica.
+- Studio za 2: 5 fotografija
+- Apartman 3+2: 9 fotografija
+- Apartman 4+2: 9 fotografija
+- Studio apartman 3+2: 4 fotografije
+- Studio apartman 2+1: 5 fotografija
+- Soba za 2: 4 fotografije
+- Dodana je galerija Orebića, Svetog Ilije, mora, plaža, Korčule, terase i dalmatinskog roštilja.
+- Dodan je pregled fotografija preko cijelog ekrana.
+- Last Minute ponuda sada jasno prikazuje popust od 10%.
+- Popust vrijedi za izravnu rezervaciju istaknutog termina do popunjenja.
+
+Provjera nedostajućih fotografija:
+OK — sve fotografije su uključene u ZIP.

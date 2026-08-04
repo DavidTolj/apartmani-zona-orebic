@@ -1,0 +1,20 @@
+ZAVRŠNA PROVJERA
+
+- stari dio 'Zavirite u Apartmane Zona' potpuno je uklonjen
+- nema ponovljenih ili starih fotografija iz tog dijela
+- pojedinačne galerije svih 6 jedinica ostaju netaknute
+- galerija Orebića, mora, plaža i Svetog Ilije ostaje
+- last-minute traka je smanjena i više ne ulazi preko zaglavlja
+- mobilni izbornik i jezici ostaju iznad svih elemenata
+
+index-en.html: uklonjena
+index-de.html: uklonjena
+index.html: uklonjena
+index-pl.html: uklonjena
+index-cs.html: uklonjena
+
+index-en.html: stari naslov=NE, stari linkovi=0
+index-de.html: stari naslov=NE, stari linkovi=0
+index.html: stari naslov=NE, stari linkovi=0
+index-pl.html: stari naslov=NE, stari linkovi=0
+index-cs.html: stari naslov=NE, stari linkovi=0
