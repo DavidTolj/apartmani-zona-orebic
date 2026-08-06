@@ -1,17 +1,7 @@
 {
-  "doctype": true,
-  "utf8": true,
-  "language_buttons": 5,
-  "embedded_images": 98,
-  "has_whatsapp": true,
-  "has_last_chance": true,
-  "files": [
-    ".gitattributes",
-    "README-UPLOAD.txt",
-    "favicon.svg",
-    "index.html",
-    "netlify.toml",
-    "robots.txt",
-    "sitemap.xml"
-  ]
+  "index_exists": true,
+  "assets_folder_exists": true,
+  "number_of_images_and_assets": 52,
+  "last_chance_countdown_removed": true,
+  "language_buttons": 5
 }
