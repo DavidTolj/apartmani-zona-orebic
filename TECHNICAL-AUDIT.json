@@ -1,0 +1,17 @@
+{
+  "doctype": true,
+  "utf8": true,
+  "language_buttons": 5,
+  "embedded_images": 98,
+  "has_whatsapp": true,
+  "has_last_chance": true,
+  "files": [
+    ".gitattributes",
+    "README-UPLOAD.txt",
+    "favicon.svg",
+    "index.html",
+    "netlify.toml",
+    "robots.txt",
+    "sitemap.xml"
+  ]
+}

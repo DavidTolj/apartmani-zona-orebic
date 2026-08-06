@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apartmani-zona-orebic.netlify.app/sitemap.xml

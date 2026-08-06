@@ -1,13 +1,13 @@
 [build]
-  publish = "."
+publish = "."
 
 [[headers]]
-  for = "/*.html"
-  [headers.values]
-    Content-Type = "text/html; charset=utf-8"
-    Cache-Control = "public, max-age=0, must-revalidate"
+for = "/*.html"
+[headers.values]
+Content-Type = "text/html; charset=UTF-8"
+Cache-Control = "public, max-age=0, must-revalidate"
 
-[[headers]]
-  for = "/images/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200

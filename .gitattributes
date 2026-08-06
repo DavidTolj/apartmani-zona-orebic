@@ -1,5 +1,5 @@
-* text=auto eol=lf
-*.jpg binary
-*.jpeg binary
-*.png binary
-*.webp binary
+*.html text eol=lf
+*.toml text eol=lf
+*.xml text eol=lf
+*.txt text eol=lf
+*.svg text eol=lf
