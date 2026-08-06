@@ -1,1 +1,0 @@
-U GitHub prenesite CIJELI sadržaj ove mape, uključujući mapu images. Ne prenosite samo HTML datoteke. Nakon Commit changes Netlify će automatski objaviti izmjene.
