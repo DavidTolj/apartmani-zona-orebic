@@ -1,0 +1,20 @@
+APARTMANI ZONA — ČISTA GITHUB VERZIJA
+
+OVA MAPA JE SPREMNA ZA GITHUB I NETLIFY.
+
+VAŽNO:
+1. Raspakiraj ZIP na računalu.
+2. U GitHub repozitorij učitaj SADRŽAJ ove mape, ne ZIP kao jednu datoteku.
+3. Obavezno moraju ostati mape:
+   images/units-final
+   images/orebic-final
+4. U korijenu moraju biti index.html, index-en.html, index-de.html, index-cs.html i index-pl.html.
+5. Najsigurniji prijenos je GitHub Desktop ili povlačenje cijelog sadržaja raspakirane mape u GitHub Upload files.
+6. Nakon commita Netlify će automatski napraviti novi deploy.
+
+PROVJERENO:
+- svi HTML dokumenti su UTF-8 i počinju s <!DOCTYPE html>
+- sve lokalne slike postoje
+- sve slike se mogu otvoriti
+- nijedna slika nije spremljena kao index.html
+- Netlify publish directory je korijen projekta

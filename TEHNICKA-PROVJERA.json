@@ -1,0 +1,41 @@
+{
+  "html": {
+    "index-cs.html": {
+      "doctype": true,
+      "utf8": true,
+      "title": "Apartmány Zona | Orebić, Pelješac, Chorvatsko",
+      "local_refs": 58,
+      "size": 1151167
+    },
+    "index-de.html": {
+      "doctype": true,
+      "utf8": true,
+      "title": "Apartmani Zona | Orebić, Pelješac, Kroatien",
+      "local_refs": 58,
+      "size": 1150905
+    },
+    "index-en.html": {
+      "doctype": true,
+      "utf8": true,
+      "title": "Apartmani Zona | Orebić, Pelješac, Croatia",
+      "local_refs": 58,
+      "size": 1152307
+    },
+    "index-pl.html": {
+      "doctype": true,
+      "utf8": true,
+      "title": "Apartamenty Zona | Orebić, Pelješac, Chorwacja",
+      "local_refs": 58,
+      "size": 1151369
+    },
+    "index.html": {
+      "doctype": true,
+      "utf8": true,
+      "title": "Apartmani Zona | Orebić, Pelješac",
+      "local_refs": 58,
+      "size": 1151649
+    }
+  },
+  "missing_references": [],
+  "invalid_images": []
+}
