@@ -52,6 +52,11 @@
 @keyframes ctaGlow{0%,100%{box-shadow:0 15px 35px rgba(213,173,97,.25)}50%{box-shadow:0 18px 46px rgba(240,214,154,.43)}}
 @media(max-width:640px){.last-card .btn.gold{animation:none}}
 
+
+/* Automatic calendar date states */
+.cal-day.past{opacity:.38!important;filter:grayscale(.65);cursor:not-allowed!important;text-decoration:line-through;pointer-events:none}
+.cal-day.today{position:relative;outline:2px solid #d5ad61;outline-offset:1px;box-shadow:0 0 0 2px rgba(213,173,97,.16)}
+
 </style>
 <link href="https://apartmanizonaorebic.com/" rel="canonical"/><script type="application/ld+json">
 {
@@ -442,6 +447,31 @@ document.querySelectorAll('details.language').forEach(d=>document.addEventListen
   }
   document.querySelectorAll(".lang-switch").forEach(btn=>btn.addEventListener("click",()=>applyLanguage(btn.dataset.lang)));
   applyLanguage(localStorage.getItem("zona-deluxe-lang")||"hr");
+})();
+</script>
+
+
+<script>
+(function(){
+ const months={"siječanj":0,"veljača":1,"ožujak":2,"travanj":3,"svibanj":4,"lipanj":5,"srpanj":6,"kolovoz":7,"rujan":8,"listopad":9,"studeni":10,"prosinac":11};
+ function updateCalendarDateStates(){
+   const n=new Date(),today=new Date(n.getFullYear(),n.getMonth(),n.getDate());
+   document.querySelectorAll(".cal-month").forEach(m=>{
+     const h=m.querySelector("h5"); if(!h)return;
+     const x=h.textContent.trim().match(/^([^\d]+?)\s+(\d{4})$/); if(!x)return;
+     const mi=months[x[1].toLocaleLowerCase("hr-HR").trim()], y=Number(x[2]); if(mi===undefined)return;
+     m.querySelectorAll(".cal-day:not(.empty)").forEach(d=>{
+       const num=Number(d.textContent.trim()); if(!Number.isInteger(num))return;
+       const dt=new Date(y,mi,num);
+       d.classList.remove("past","today");
+       if(dt<today){d.classList.add("past");d.setAttribute("aria-disabled","true");}
+       else {d.removeAttribute("aria-disabled");if(dt.getTime()===today.getTime())d.classList.add("today");}
+     });
+   });
+ }
+ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",updateCalendarDateStates);else updateCalendarDateStates();
+ function midnight(){const n=new Date(),next=new Date(n.getFullYear(),n.getMonth(),n.getDate()+1,0,0,2);setTimeout(()=>{updateCalendarDateStates();midnight()},next-n)}
+ midnight();
 })();
 </script>
 
