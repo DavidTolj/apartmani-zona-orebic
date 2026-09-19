@@ -23,7 +23,7 @@ export default async request=>{
  if(request.method!=='GET')return reply({status:'unavailable'},405);
  const unit=new URL(request.url).searchParams.get('unit');if(!units.has(unit))return reply({status:'unavailable'},400);
  const source=process.env['ZONA_ICAL_'+unit.toUpperCase()];if(!source)return reply({status:'unavailable'},503);
- try{const url=new URL(source);if(url.protocol!=='https:'||url.username||url.password||!url.hostname.includes('.')||/^(localhost|127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2\d|3[01])\.)/.test(url.hostname)||url.hostname.includes(':'))throw new Error('Invalid configured source');
+ try{const url=new URL(source);if(url.protocol!=='https:'||url.username||url.password||!['www.apartmanija.hr','apartmanija.hr'].includes(url.hostname)||(url.port&&url.port!=='443'))throw new Error('Invalid configured source');
   const response=await fetch(url,{redirect:'error',signal:AbortSignal.timeout(8000),headers:{Accept:'text/calendar'}});if(!response.ok||Number(response.headers.get('content-length'))>1000000)throw new Error('Source unavailable');
   const reader=response.body.getReader();let bytes=0,text='';const decoder=new TextDecoder();while(true){const chunk=await reader.read();if(chunk.done)break;bytes+=chunk.value.length;if(bytes>1000000){await reader.cancel();throw new Error('Feed too large');}text+=decoder.decode(chunk.value,{stream:true});}text+=decoder.decode();
   let busy;try{busy=parseAvailability(text);}catch(error){console.warn('Calendar format not supported:',error.message);return reply({status:'unavailable',reason:'feed_format'},503);}headers['Cache-Control']='public, max-age=300';return reply({status:'ok',checkedAt:new Date().toISOString(),busy});
