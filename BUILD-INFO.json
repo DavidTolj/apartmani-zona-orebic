@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "builtAt": "2026-09-19T17:05:39.932Z",
+  "source": "7263582",
+  "languages": [
+    "hr",
+    "en",
+    "de",
+    "cs",
+    "pl"
+  ],
+  "calendar": "Server-side Apartmanija iCal integration; production-only environment variables; unavailable sources fail closed"
+}
