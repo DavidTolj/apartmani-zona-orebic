@@ -1,0 +1,111 @@
+{
+  "revision": 1,
+  "referenceDate": "2026-09-10",
+  "year": 2026,
+  "currency": "EUR",
+  "unit": "smještajna jedinica / noć",
+  "objectCode": "ZONA-OREBIC",
+  "address": "Josipa bana Jelačića 24, 20250 Orebić",
+  "periods": [
+    {
+      "from": "2026-07-21",
+      "to": "2026-08-20"
+    },
+    {
+      "from": "2026-08-21",
+      "to": "2026-08-31"
+    },
+    {
+      "from": "2026-09-01",
+      "to": "2026-12-31"
+    }
+  ],
+  "units": [
+    {
+      "id": "studio2",
+      "name": "Studio za 2 osobe",
+      "prices": [
+        50,
+        45,
+        32
+      ],
+      "referencePrices": [
+        50,
+        45,
+        32
+      ]
+    },
+    {
+      "id": "studio21",
+      "name": "Studio apartman 2+1",
+      "prices": [
+        54,
+        50,
+        42
+      ],
+      "referencePrices": [
+        54,
+        50,
+        42
+      ]
+    },
+    {
+      "id": "apartment32",
+      "name": "Apartman 3+2",
+      "prices": [
+        102,
+        84,
+        72
+      ],
+      "referencePrices": [
+        102,
+        84,
+        72
+      ]
+    },
+    {
+      "id": "studio32",
+      "name": "Studio apartman 3+2",
+      "prices": [
+        102,
+        84,
+        72
+      ],
+      "referencePrices": [
+        102,
+        84,
+        72
+      ]
+    },
+    {
+      "id": "apartment42",
+      "name": "Apartman 4+2",
+      "prices": [
+        114,
+        105,
+        84
+      ],
+      "referencePrices": [
+        114,
+        105,
+        84
+      ]
+    },
+    {
+      "id": "room2",
+      "name": "Soba za 2 osobe",
+      "prices": [
+        38,
+        35,
+        30
+      ],
+      "referencePrices": [
+        38,
+        35,
+        30
+      ]
+    }
+  ],
+  "specialSale": false,
+  "specialSaleName": ""
+}

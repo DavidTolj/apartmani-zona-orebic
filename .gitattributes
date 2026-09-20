@@ -1,5 +1,4 @@
-*.html text eol=lf
-*.toml text eol=lf
-*.xml text eol=lf
-*.txt text eol=lf
-*.svg text eol=lf
+# Published price revisions are byte-preserved on Windows and Netlify checkouts.
+cjenik/arhiva/* -text
+cjenik/aktualni.csv -text
+cjenik/aktualni.xml -text

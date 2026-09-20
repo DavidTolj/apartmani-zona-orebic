@@ -23,3 +23,16 @@
 
 /.netlify/functions/*
   X-Robots-Tag: noindex, nofollow
+
+# Price list exports: public machine access, fresh current aliases, permanent history.
+/cjenik/aktualni.csv
+  Content-Type: text/csv; charset=utf-8
+  Cache-Control: public, max-age=0, must-revalidate
+  X-Robots-Tag: noindex, follow
+/cjenik/aktualni.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=0, must-revalidate
+  X-Robots-Tag: noindex, follow
+/cjenik/arhiva/*
+  Cache-Control: public, max-age=0, must-revalidate
+  X-Robots-Tag: noindex, follow
