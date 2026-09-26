@@ -1,0 +1,357 @@
+{
+  "hr": {
+    "allInclusive": "Cijena je za cijelu smještajnu jedinicu po noći i uključuje turističku pristojbu, čišćenje i sve obvezne troškove. Nema obveznih doplata izvan objavljene cijene.",
+    "termsLabel": "Uvjeti i prigovori",
+    "termsTitle": "Uvjeti upita, rezervacije i pisani prigovori",
+    "termsDescription": "Što uključuju cijene Apartmana Zona, kako dogovoriti rezervaciju i kako podnijeti pisani prigovor.",
+    "privacyTitle": "Privatnost i obrada upita",
+    "updated": "Ažurirano 26. rujna 2026.",
+    "back": "Naslovnica",
+    "form": "Podatke prima domaćin, a Dalmatia Web Studio dobiva kopiju radi podrške pri obradi vašeg upita. Slanje upita ne potvrđuje rezervaciju i ne prijavljuje vas na marketing.",
+    "privacyLabel": "Privatnost",
+    "terms": [
+      [
+        "Kontakt domaćina",
+        "Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Hrvatska. E-mail: <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>; telefon: <a href=\"tel:+38598633898\">+385 98 633 898</a>."
+      ],
+      [
+        "Cijene i opseg smještaja",
+        "{{ALL}} Iznosi su u eurima za smještajnu jedinicu i razdoblje navedeno u <a href=\"{{PREFIX}}cjenik/\">cjeniku</a>. Broj gostiju mora odgovarati kapacitetu odabrane jedinice. Objavljeni minimalni boravak je 3 noći. Za termine koji nisu obuhvaćeni cjenikom zatražite ponudu prije rezervacije."
+      ],
+      [
+        "Od upita do potvrđene rezervacije",
+        "Obrazac služi slanju upita. Slanje obrasca, automatska potvrda primitka i informativni kalendar sami po sebi nisu potvrda rezervacije. Prije prihvaćanja ponude domaćin pisanim putem potvrđuje jedinicu, datume, broj gostiju, raspoloživost i ukupnu cijenu boravka."
+      ],
+      [
+        "Plaćanje, otkazivanje i dolazak",
+        "Prije nego što prihvatite ponudu, domaćin vam dostavlja uvjete plaćanja i eventualnog predujma, uvjete otkazivanja i povrata te vrijeme dolaska i odlaska. Provjerite te uvjete u svojoj ponudi i sačuvajte potvrdu rezervacije. Ova stranica ne određuje dodatnu naknadu, iznos predujma ni kaznu za otkazivanje."
+      ],
+      [
+        "Pravo na jednostrani raskid",
+        "Za uslugu smještaja ugovorenu za određeni datum ili razdoblje ne primjenjuje se zakonsko pravo potrošača na jednostrani raskid u roku od 14 dana. Mogućnost otkazivanja i povrata uređuju uvjeti prihvaćene ponude; ostala zakonska prava gosta ostaju na snazi."
+      ],
+      [
+        "Pisani prigovor",
+        "Pisani prigovor možete predati u objektu, poslati na <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a> ili poštom na Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Hrvatska. Navedite podatke potrebne za prepoznavanje boravka, opis prigovora i adresu za odgovor. Primitak potvrđujemo bez odgađanja, a pisani odgovor dostavljamo najkasnije u roku od 15 dana od primitka, uz jasno očitovanje prihvaćamo li osnovanost prigovora. Evidencija pisanih prigovora čuva se godinu dana od primitka."
+      ]
+    ],
+    "privacy": [
+      [
+        "Kontakt za zaštitu osobnih podataka",
+        "Za obradu podataka upita i rezervacije odgovoran je domaćin Apartmana Zona, Josipa bana Jelačića 24, 20250 Orebić, Hrvatska. Za zahtjeve i pitanja pišite na <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>."
+      ],
+      [
+        "Podaci i svrhe",
+        "Obrazac prikuplja ime, e-mail, datume boravka, broj gostiju i odabranu jedinicu; telefon i slobodna poruka nisu obvezni. Podaci označeni kao obvezni potrebni su da bismo odgovorili na konkretan upit. Ne šaljite podatke platnih kartica, preslike isprava ni osjetljive podatke ovim obrascem."
+      ],
+      [
+        "Pravne osnove",
+        "Odgovor na vaš zahtjev, priprema ponude i dogovor smještaja temelje se na poduzimanju radnji na vaš zahtjev prije sklapanja ugovora, a potvrđeni boravak na izvršavanju ugovora (čl. 6. st. 1. toč. b GDPR-a). Zakonske evidencije i obrada pisanih prigovora temelje se na zakonskoj obvezi (toč. c). Nužni tehnički zapisi i zaštita od zlouporabe temelje se na legitimnom interesu sigurnog rada stranice i zaštite pravnih zahtjeva (toč. f). Slanje upita nije privola za marketing."
+      ],
+      [
+        "Tko zaprima podatke",
+        "Upit prima domaćin na anteozona@gmail.com, a Dalmatia Web Studio (obrt CAFE BAR ZONA, vl. Jana Tolj) dobiva kopiju na dalmatiawebstudio@gmail.com radi stvarne podrške domaćinu pri obradi upita. Studio te podatke ne prima za vlastiti marketing. Netlify pruža hosting i prihvat obrasca; Google pruža navedene e-mail sandučiće. Zakonom ovlaštenim tijelima podaci se dostavljaju kada postoji primjenjiva pravna obveza."
+      ],
+      [
+        "Obrada izvan EGP-a",
+        "Netlify i Google mogu obrađivati podatke izvan Europskog gospodarskog prostora, uključujući SAD. Njihove informacije o prijenosima navode odluke o primjerenosti, gdje su primjenjive, te standardne ugovorne klauzule za ostale obuhvaćene prijenose: <a href=\"https://www.netlify.com/privacy/\">Netlify</a> i <a href=\"https://policies.google.com/privacy/frameworks?hl=hr\">Google</a>. Informacije o zaštitnim mjerama primjenjivima na vaš upit i načinu dobivanja njihove kopije možete zatražiti od domaćina."
+      ],
+      [
+        "Koliko dugo čuvamo podatke",
+        "Podaci upita čuvaju se tijekom odgovaranja i dogovora o traženom boravku. Nakon završetka komunikacije i prestanka potrebe za dogovorom brišu se podaci za koje ne postoji druga pravna osnova čuvanja. Podaci rezervacije i propisanih evidencija čuvaju se u rokovima odgovarajućih zakonskih obveza; evidencija pisanog prigovora godinu dana od primitka. Podaci potrebni za konkretan pravni zahtjev čuvaju se do njegova rješavanja i isteka primjenjivih rokova. Kriteriji se odnose i na kopije upita kod podrške."
+      ],
+      [
+        "Vaša prava",
+        "Ovisno o uvjetima GDPR-a imate pravo na pristup, ispravak, brisanje, ograničenje obrade i prenosivost podataka. Možete uložiti prigovor obradi na temelju legitimnog interesa. Ako bi se pojedina obrada temeljila na privoli, možete je povući bez utjecaja na zakonitost ranije obrade. Zahtjev uputite domaćinu; u pravilu odgovaramo u roku od mjesec dana. Imate pravo podnijeti pritužbu <a href=\"https://azop.hr/\">Agenciji za zaštitu osobnih podataka (AZOP)</a>."
+      ],
+      [
+        "Kolačići i vanjske poveznice",
+        "Ova stranica ne koristi analitičke ni marketinške kolačiće. Hosting može voditi tehničke zapise, primjerice IP adresu, vrijeme pristupa i zatraženu stranicu, potrebne za sigurnost i rad. Klikom na WhatsApp, Google, Facebook, Instagram ili Apartmaniju otvarate zasebnu uslugu s vlastitim pravilima privatnosti. Ne donosimo automatizirane odluke niti profiliramo goste s pravnim ili sličnim značajnim učincima."
+      ]
+    ]
+  },
+  "en": {
+    "allInclusive": "The rate is per entire accommodation unit per night and includes tourist tax, cleaning and all mandatory charges. There are no mandatory surcharges beyond the published rate.",
+    "termsLabel": "Terms and complaints",
+    "termsTitle": "Enquiries, booking terms and written complaints",
+    "termsDescription": "What Apartmani Zona rates include, how bookings are agreed and how to submit a written complaint.",
+    "privacyTitle": "Privacy and enquiry processing",
+    "updated": "Updated 26 September 2026.",
+    "back": "Home",
+    "privacyLabel": "Privacy",
+    "form": "The host receives your enquiry; Dalmatia Web Studio receives a copy to help the host process it. Sending an enquiry does not confirm a booking or subscribe you to marketing.",
+    "terms": [
+      [
+        "Contact the host",
+        "Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Croatia. Email: <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>; telephone: <a href=\"tel:+38598633898\">+385 98 633 898</a>."
+      ],
+      [
+        "Rates and accommodation",
+        "{{ALL}} Amounts are in euros for the unit and stay period shown in the <a href=\"{{PREFIX}}cjenik/\">price list</a>. Guest numbers must fit the selected unit’s capacity. The published minimum stay is 3 nights. Request a quote before booking dates outside the published price list."
+      ],
+      [
+        "From enquiry to confirmed booking",
+        "The form sends an enquiry. Submitting it, receiving an automatic acknowledgement or viewing the availability calendar does not in itself confirm a booking. Before you accept an offer, the host confirms the unit, dates, guest numbers, availability and total stay price in writing."
+      ],
+      [
+        "Payment, cancellation and arrival",
+        "Before you accept an offer, the host provides payment and any deposit terms, cancellation and refund terms, and check-in and check-out times. Check these in your offer and keep your booking confirmation. This page does not set an additional charge, deposit amount or cancellation penalty."
+      ],
+      [
+        "Right of withdrawal",
+        "The statutory 14-day consumer right of withdrawal does not apply to accommodation booked for specific dates or a specific period. Cancellation and refunds follow the accepted offer; your other statutory rights remain unaffected."
+      ],
+      [
+        "Written complaints",
+        "You can submit a written complaint at the property, email <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a> or write to Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Croatia. Include details identifying your stay, the complaint and a reply address. We acknowledge receipt without delay and provide a written response within 15 days of receipt, stating whether we accept the complaint as justified. Written complaint records are retained for one year from receipt."
+      ]
+    ],
+    "privacy": [
+      [
+        "Privacy contact",
+        "The host of Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Croatia, is responsible for processing enquiry and booking data. Contact <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a> with questions or requests."
+      ],
+      [
+        "Data and purposes",
+        "The form collects your name, email, stay dates, guest numbers and selected unit; telephone and a free-text message are optional. Required fields allow us to answer your specific enquiry. Do not use this form to send payment card details, identity document copies or sensitive data."
+      ],
+      [
+        "Legal bases",
+        "Replying to your request, preparing an offer and arranging accommodation are steps taken at your request before a contract; a confirmed stay is processed to perform that contract (GDPR Article 6(1)(b)). Statutory records and written complaints are processed to comply with legal obligations (point (c)). Necessary technical logs, abuse prevention and protection of legal claims rely on legitimate interests (point (f)). Sending an enquiry is not marketing consent."
+      ],
+      [
+        "Who receives data",
+        "The host receives enquiries at anteozona@gmail.com. Dalmatia Web Studio (CAFE BAR ZONA, sole proprietorship owned by Jana Tolj) receives a copy at dalmatiawebstudio@gmail.com to help the host handle the enquiry, not for the Studio’s own marketing. Netlify provides hosting and form processing; Google provides these email accounts. Data is shared with authorised authorities where a legal obligation applies."
+      ],
+      [
+        "Processing outside the EEA",
+        "Netlify and Google may process data outside the European Economic Area, including the United States. Their transfer information describes adequacy decisions where applicable and standard contractual clauses for other covered transfers: <a href=\"https://www.netlify.com/privacy/\">Netlify</a> and <a href=\"https://policies.google.com/privacy/frameworks?hl=en\">Google</a>. Ask the host about the safeguards applicable to your enquiry and how to obtain a copy."
+      ],
+      [
+        "Retention",
+        "Enquiry data is retained while responding and arranging the requested stay. Once communication and the need to arrange the stay end, data without another retention basis is deleted. Booking data and statutory records are retained for applicable legal periods; written complaint records for one year from receipt. Data necessary for a specific legal claim is retained until it is resolved and applicable time limits expire. These criteria also apply to support copies of enquiries."
+      ],
+      [
+        "Your rights",
+        "Subject to GDPR conditions, you may request access, rectification, erasure, restriction and data portability. You may object to processing based on legitimate interests. Where processing relies on consent, you can withdraw it without affecting earlier lawful processing. Send requests to the host; we normally respond within one month. You can complain to the <a href=\"https://azop.hr/\">Croatian Personal Data Protection Agency (AZOP)</a>."
+      ],
+      [
+        "Cookies and external links",
+        "This site uses no analytics or marketing cookies. Hosting may keep technical logs such as IP address, access time and requested page for security and operation. WhatsApp, Google, Facebook, Instagram and Apartmanija links open separate services with their own privacy policies. We do not make automated decisions or profile guests in ways producing legal or similarly significant effects."
+      ]
+    ]
+  },
+  "de": {
+    "allInclusive": "Der Preis gilt pro gesamter Unterkunft und Nacht und enthält die Tourismusabgabe, die Reinigung und alle obligatorischen Kosten. Es fallen keine obligatorischen Zuschläge zum veröffentlichten Preis an.",
+    "termsLabel": "Bedingungen und Beschwerden",
+    "termsTitle": "Anfragen, Buchungsbedingungen und schriftliche Beschwerden",
+    "termsDescription": "Enthaltene Leistungen, Buchungsablauf und schriftliche Beschwerden bei Apartmani Zona.",
+    "privacyTitle": "Datenschutz und Bearbeitung von Anfragen",
+    "updated": "Aktualisiert am 26. September 2026.",
+    "back": "Startseite",
+    "privacyLabel": "Datenschutz",
+    "form": "Ihre Anfrage erhält der Gastgeber; Dalmatia Web Studio erhält eine Kopie zur Unterstützung bei der Bearbeitung. Das Absenden bestätigt keine Buchung und ist keine Anmeldung für Werbung.",
+    "terms": [
+      [
+        "Kontakt zum Gastgeber",
+        "Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Kroatien. E-Mail: <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>; Telefon: <a href=\"tel:+38598633898\">+385 98 633 898</a>."
+      ],
+      [
+        "Preise und Unterkunft",
+        "{{ALL}} Die Eurobeträge gelten für die Unterkunft und den Zeitraum in der <a href=\"{{PREFIX}}cjenik/\">Preisliste</a>. Die Gästezahl muss der Kapazität entsprechen. Der veröffentlichte Mindestaufenthalt beträgt 3 Nächte. Für nicht aufgeführte Termine erfragen Sie vor der Buchung ein Angebot."
+      ],
+      [
+        "Von der Anfrage zur Buchung",
+        "Das Formular dient einer Anfrage. Weder das Absenden noch eine automatische Empfangsbestätigung oder der Verfügbarkeitskalender bestätigen eine Buchung. Vor Annahme des Angebots bestätigt der Gastgeber Unterkunft, Termine, Gästezahl, Verfügbarkeit und Gesamtpreis schriftlich."
+      ],
+      [
+        "Zahlung, Stornierung und Anreise",
+        "Vor Annahme des Angebots erhalten Sie die Zahlungsbedingungen, gegebenenfalls Anzahlungsbedingungen, Stornierungs- und Erstattungsbedingungen sowie An- und Abreisezeiten. Prüfen Sie diese im Angebot und bewahren Sie die Buchungsbestätigung auf. Diese Seite legt keine zusätzliche Gebühr, Anzahlung oder Stornierungsgebühr fest."
+      ],
+      [
+        "Widerrufsrecht",
+        "Für Beherbergungsleistungen an einem bestimmten Termin oder in einem bestimmten Zeitraum gilt das gesetzliche 14-tägige Widerrufsrecht nicht. Für Stornierungen und Erstattungen gelten die Bedingungen des angenommenen Angebots; andere gesetzliche Rechte bleiben unberührt."
+      ],
+      [
+        "Schriftliche Beschwerden",
+        "Schriftliche Beschwerden können Sie in der Unterkunft abgeben, an <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a> oder per Post an Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Kroatien senden. Geben Sie Angaben zum Aufenthalt, den Beschwerdegrund und eine Antwortadresse an. Wir bestätigen den Eingang unverzüglich und antworten schriftlich binnen 15 Tagen nach Eingang mit einer klaren Stellungnahme zur Berechtigung. Beschwerdeaufzeichnungen werden ein Jahr ab Eingang aufbewahrt."
+      ]
+    ],
+    "privacy": [
+      [
+        "Datenschutzkontakt",
+        "Verantwortlich für Anfrage- und Buchungsdaten ist der Gastgeber von Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Kroatien. Anfragen richten Sie an <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>."
+      ],
+      [
+        "Daten und Zwecke",
+        "Das Formular erfasst Name, E-Mail, Reisedaten, Gästezahl und gewählte Unterkunft. Telefonnummer und Nachricht sind freiwillig. Pflichtangaben benötigen wir zur Bearbeitung Ihrer konkreten Anfrage. Senden Sie keine Kartendaten, Ausweiskopien oder sensiblen Daten über dieses Formular."
+      ],
+      [
+        "Rechtsgrundlagen",
+        "Die Antwort, Angebotserstellung und Abstimmung erfolgen als vorvertragliche Maßnahmen auf Ihre Anfrage; bestätigte Aufenthalte zur Vertragserfüllung (Art. 6 Abs. 1 Buchst. b DSGVO). Gesetzliche Aufzeichnungen und Beschwerden beruhen auf rechtlichen Pflichten (Buchst. c). Notwendige technische Protokolle, Missbrauchsschutz und die Wahrung von Rechtsansprüchen beruhen auf berechtigten Interessen (Buchst. f). Eine Anfrage ist keine Werbeeinwilligung."
+      ],
+      [
+        "Empfänger",
+        "Der Gastgeber erhält Anfragen an anteozona@gmail.com. Dalmatia Web Studio (Einzelunternehmen CAFE BAR ZONA, Inhaberin Jana Tolj) erhält eine Kopie an dalmatiawebstudio@gmail.com zur Unterstützung bei der Bearbeitung, nicht für eigene Werbung. Netlify stellt Hosting und Formularverarbeitung bereit, Google die genannten E-Mail-Konten. Bei gesetzlicher Verpflichtung erhalten zuständige Behörden erforderliche Daten."
+      ],
+      [
+        "Verarbeitung außerhalb des EWR",
+        "Netlify und Google können Daten außerhalb des Europäischen Wirtschaftsraums, einschließlich der USA, verarbeiten. Ihre Informationen nennen anwendbare Angemessenheitsbeschlüsse und Standardvertragsklauseln für sonstige erfasste Übermittlungen: <a href=\"https://www.netlify.com/privacy/\">Netlify</a> und <a href=\"https://policies.google.com/privacy/frameworks?hl=de\">Google</a>. Auskunft zu den für Ihre Anfrage geltenden Garantien und einer Kopie erhalten Sie beim Gastgeber."
+      ],
+      [
+        "Speicherdauer",
+        "Anfragedaten werden während der Beantwortung und Abstimmung des gewünschten Aufenthalts gespeichert. Nach Ende der Kommunikation und Wegfall des Abstimmungsbedarfs werden Daten ohne weitere Aufbewahrungsgrundlage gelöscht. Buchungsdaten und gesetzliche Aufzeichnungen unterliegen den geltenden gesetzlichen Fristen; schriftliche Beschwerden werden ein Jahr ab Eingang gespeichert. Für konkrete Rechtsansprüche erforderliche Daten bleiben bis zur Klärung und zum Ablauf einschlägiger Fristen gespeichert. Dies gilt auch für Unterstützungskopien."
+      ],
+      [
+        "Ihre Rechte",
+        "Unter den Voraussetzungen der DSGVO haben Sie Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung und Datenübertragbarkeit sowie Widerspruch bei berechtigten Interessen. Eine etwaige Einwilligung können Sie ohne Auswirkung auf die zuvor rechtmäßige Verarbeitung widerrufen. Kontaktieren Sie den Gastgeber; wir antworten grundsätzlich binnen eines Monats. Eine Beschwerde ist bei der <a href=\"https://azop.hr/\">kroatischen Datenschutzbehörde AZOP</a> möglich."
+      ],
+      [
+        "Cookies und externe Links",
+        "Diese Website verwendet keine Analyse- oder Marketing-Cookies. Der Hostingdienst kann für Betrieb und Sicherheit technische Protokolle wie IP-Adresse, Zugriffszeit und angeforderte Seite speichern. Links zu WhatsApp, Google, Facebook, Instagram oder Apartmanija öffnen eigenständige Dienste mit eigenen Datenschutzregeln. Es erfolgen keine automatisierten Entscheidungen oder Profilbildungen mit rechtlichen oder ähnlich erheblichen Auswirkungen."
+      ]
+    ]
+  },
+  "cs": {
+    "allInclusive": "Cena platí za celou ubytovací jednotku a noc a zahrnuje turistický poplatek, úklid a všechny povinné náklady. Ke zveřejněné ceně se nepřipočítávají povinné příplatky.",
+    "termsLabel": "Podmínky a stížnosti",
+    "termsTitle": "Poptávky, podmínky rezervace a písemné stížnosti",
+    "termsDescription": "Co zahrnují ceny Apartmani Zona, jak probíhá rezervace a jak podat písemnou stížnost.",
+    "privacyTitle": "Soukromí a zpracování poptávek",
+    "updated": "Aktualizováno 26. září 2026.",
+    "back": "Úvod",
+    "privacyLabel": "Soukromí",
+    "form": "Poptávku obdrží hostitel a její kopii Dalmatia Web Studio, které pomáhá se zpracováním. Odeslání nepotvrzuje rezervaci ani vás nepřihlašuje k marketingovým zprávám.",
+    "terms": [
+      [
+        "Kontakt na hostitele",
+        "Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Chorvatsko. E-mail: <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>; telefon: <a href=\"tel:+38598633898\">+385 98 633 898</a>."
+      ],
+      [
+        "Ceny a ubytování",
+        "{{ALL}} Částky v eurech platí pro jednotku a termín v <a href=\"{{PREFIX}}cjenik/\">ceníku</a>. Počet hostů musí odpovídat kapacitě jednotky. Zveřejněný minimální pobyt je 3 noci. Pro termíny mimo ceník si před rezervací vyžádejte nabídku."
+      ],
+      [
+        "Od poptávky k rezervaci",
+        "Formulář slouží k zaslání poptávky. Odeslání, automatické potvrzení přijetí ani kalendář dostupnosti samy nepotvrzují rezervaci. Před přijetím nabídky hostitel písemně potvrdí jednotku, termín, počet hostů, dostupnost a celkovou cenu pobytu."
+      ],
+      [
+        "Platba, storno a příjezd",
+        "Před přijetím nabídky obdržíte platební podmínky včetně případné zálohy, podmínky storna a vrácení peněz i čas příjezdu a odjezdu. Zkontrolujte je v nabídce a uschovejte potvrzení rezervace. Tato stránka nestanovuje dodatečný poplatek, výši zálohy ani storno poplatek."
+      ],
+      [
+        "Právo na odstoupení",
+        "Na ubytování sjednané na konkrétní datum nebo období se nevztahuje zákonné právo spotřebitele na odstoupení do 14 dnů. Storno a vrácení peněz se řídí přijatou nabídkou; ostatní zákonná práva zůstávají zachována."
+      ],
+      [
+        "Písemné stížnosti",
+        "Písemnou stížnost můžete předat v objektu, poslat na <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a> nebo poštou na Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Chorvatsko. Uveďte údaje k rozpoznání pobytu, popis stížnosti a adresu pro odpověď. Přijetí potvrdíme bez odkladu a písemně odpovíme do 15 dnů od obdržení s jasným stanoviskem k oprávněnosti. Záznamy stížností uchováváme jeden rok od obdržení."
+      ]
+    ],
+    "privacy": [
+      [
+        "Kontakt pro ochranu údajů",
+        "Za zpracování údajů poptávky a rezervace odpovídá hostitel Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Chorvatsko. Kontakt: <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>."
+      ],
+      [
+        "Údaje a účely",
+        "Formulář shromažďuje jméno, e-mail, termín pobytu, počet hostů a jednotku; telefon a zpráva jsou nepovinné. Povinné údaje umožňují odpovědět na konkrétní poptávku. Neposílejte údaje karet, kopie dokladů ani citlivé údaje."
+      ],
+      [
+        "Právní základy",
+        "Odpověď, příprava nabídky a sjednání pobytu jsou kroky na vaši žádost před uzavřením smlouvy; potvrzený pobyt zpracováváme za účelem plnění smlouvy (čl. 6 odst. 1 písm. b GDPR). Zákonné evidence a stížnosti vycházejí z právní povinnosti (písm. c). Nezbytné technické záznamy, ochrana před zneužitím a právní nároky vycházejí z oprávněného zájmu (písm. f). Poptávka není souhlasem s marketingem."
+      ],
+      [
+        "Příjemci údajů",
+        "Hostitel přijímá poptávky na anteozona@gmail.com. Dalmatia Web Studio (CAFE BAR ZONA, podnikatelka Jana Tolj) dostává kopii na dalmatiawebstudio@gmail.com pro pomoc se zpracováním, nikoli pro vlastní marketing. Netlify zajišťuje hosting a formulář, Google uvedené e-mailové schránky. Oprávněným orgánům předáváme údaje, pokud to vyžaduje zákon."
+      ],
+      [
+        "Zpracování mimo EHP",
+        "Netlify a Google mohou zpracovávat údaje mimo Evropský hospodářský prostor včetně USA. Jejich informace uvádějí příslušná rozhodnutí o odpovídající ochraně a standardní smluvní doložky pro ostatní zahrnuté přenosy: <a href=\"https://www.netlify.com/privacy/\">Netlify</a> a <a href=\"https://policies.google.com/privacy/frameworks?hl=cs\">Google</a>. Informace o zárukách pro vaši poptávku a získání jejich kopie vyžádejte u hostitele."
+      ],
+      [
+        "Doba uchování",
+        "Údaje poptávky uchováváme během odpovídání a sjednávání požadovaného pobytu. Po skončení komunikace a potřeby sjednání mažeme údaje bez jiného právního důvodu uchování. Rezervační a zákonné záznamy podléhají příslušným zákonným lhůtám; stížnosti se uchovávají jeden rok od přijetí. Údaje pro konkrétní právní nárok uchováváme do jeho vyřešení a uplynutí příslušných lhůt. Stejná kritéria platí pro kopie u podpory."
+      ],
+      [
+        "Vaše práva",
+        "Za podmínek GDPR můžete požádat o přístup, opravu, výmaz, omezení a přenositelnost údajů a vznést námitku proti zpracování na základě oprávněného zájmu. Případný souhlas lze odvolat bez dopadu na předchozí zákonné zpracování. Žádosti zasílejte hostiteli; běžně odpovídáme do měsíce. Můžete podat stížnost u <a href=\"https://azop.hr/\">chorvatského úřadu AZOP</a>."
+      ],
+      [
+        "Cookies a externí odkazy",
+        "Web nepoužívá analytické ani marketingové cookies. Hosting může pro provoz a zabezpečení vést technické záznamy, například IP adresu, čas a požadovanou stránku. Odkazy na WhatsApp, Google, Facebook, Instagram a Apartmanija otevírají samostatné služby s vlastními pravidly. Neprovádíme automatizované rozhodování ani profilování s právními či obdobně významnými účinky."
+      ]
+    ]
+  },
+  "pl": {
+    "allInclusive": "Cena dotyczy całej jednostki noclegowej za noc i obejmuje opłatę turystyczną, sprzątanie oraz wszystkie obowiązkowe koszty. Do opublikowanej ceny nie doliczamy obowiązkowych dopłat.",
+    "termsLabel": "Warunki i reklamacje",
+    "termsTitle": "Zapytania, warunki rezerwacji i pisemne reklamacje",
+    "termsDescription": "Co obejmują ceny Apartmani Zona, jak uzgodnić rezerwację i jak złożyć pisemną reklamację.",
+    "privacyTitle": "Prywatność i obsługa zapytań",
+    "updated": "Aktualizacja: 26 września 2026 r.",
+    "back": "Strona główna",
+    "privacyLabel": "Prywatność",
+    "form": "Zapytanie otrzymuje gospodarz, a kopię Dalmatia Web Studio, które pomaga w jego obsłudze. Wysłanie nie potwierdza rezerwacji ani nie zapisuje do wiadomości marketingowych.",
+    "terms": [
+      [
+        "Kontakt z gospodarzem",
+        "Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Chorwacja. E-mail: <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>; telefon: <a href=\"tel:+38598633898\">+385 98 633 898</a>."
+      ],
+      [
+        "Ceny i zakwaterowanie",
+        "{{ALL}} Kwoty w euro dotyczą jednostki i terminu w <a href=\"{{PREFIX}}cjenik/\">cenniku</a>. Liczba gości musi odpowiadać pojemności jednostki. Opublikowany minimalny pobyt wynosi 3 noce. Dla terminów spoza cennika poproś o ofertę przed rezerwacją."
+      ],
+      [
+        "Od zapytania do rezerwacji",
+        "Formularz służy do wysłania zapytania. Wysłanie, automatyczne potwierdzenie odbioru ani kalendarz dostępności same w sobie nie potwierdzają rezerwacji. Przed przyjęciem oferty gospodarz pisemnie potwierdza jednostkę, daty, liczbę gości, dostępność i całkowitą cenę pobytu."
+      ],
+      [
+        "Płatność, anulowanie i przyjazd",
+        "Przed przyjęciem oferty otrzymasz warunki płatności i ewentualnej przedpłaty, anulowania i zwrotu oraz godziny przyjazdu i wyjazdu. Sprawdź je w ofercie i zachowaj potwierdzenie. Ta strona nie określa dodatkowej opłaty, kwoty przedpłaty ani kary za anulowanie."
+      ],
+      [
+        "Prawo odstąpienia",
+        "Ustawowe 14-dniowe prawo konsumenta do odstąpienia nie obejmuje zakwaterowania zarezerwowanego na określony dzień lub okres. Anulowanie i zwroty podlegają zaakceptowanej ofercie; pozostałe prawa ustawowe pozostają zachowane."
+      ],
+      [
+        "Pisemne reklamacje",
+        "Reklamację można złożyć pisemnie w obiekcie, wysłać na <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a> lub pocztą na Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Chorwacja. Podaj dane identyfikujące pobyt, opis reklamacji i adres do odpowiedzi. Niezwłocznie potwierdzamy odbiór i odpowiadamy pisemnie w ciągu 15 dni od otrzymania, jasno wskazując, czy uznajemy zasadność reklamacji. Dokumentację reklamacji przechowujemy przez rok od otrzymania."
+      ]
+    ],
+    "privacy": [
+      [
+        "Kontakt w sprawie danych",
+        "Za przetwarzanie danych zapytań i rezerwacji odpowiada gospodarz Apartmani Zona, Josipa bana Jelačića 24, 20250 Orebić, Chorwacja. Kontakt: <a href=\"mailto:anteozona@gmail.com\">anteozona@gmail.com</a>."
+      ],
+      [
+        "Dane i cele",
+        "Formularz zbiera imię i nazwisko, e-mail, daty pobytu, liczbę gości i wybraną jednostkę; telefon i wiadomość są dobrowolne. Wymagane dane umożliwiają odpowiedź na konkretne zapytanie. Nie przesyłaj danych kart płatniczych, kopii dokumentów ani danych wrażliwych."
+      ],
+      [
+        "Podstawy prawne",
+        "Odpowiedź, przygotowanie oferty i uzgodnienie pobytu to działania na twoje żądanie przed zawarciem umowy; potwierdzony pobyt jest przetwarzany w celu jej wykonania (art. 6 ust. 1 lit. b RODO). Ustawowe rejestry i reklamacje opierają się na obowiązku prawnym (lit. c). Niezbędne logi, ochrona przed nadużyciami i ochrona roszczeń opierają się na uzasadnionym interesie (lit. f). Zapytanie nie jest zgodą marketingową."
+      ],
+      [
+        "Odbiorcy",
+        "Gospodarz otrzymuje zapytania na anteozona@gmail.com. Dalmatia Web Studio (CAFE BAR ZONA, działalność gospodarcza Jany Tolj) otrzymuje kopię na dalmatiawebstudio@gmail.com w celu pomocy przy obsłudze, nie do własnego marketingu. Netlify zapewnia hosting i obsługę formularza, Google wskazane skrzynki e-mail. Dane przekazujemy uprawnionym organom, gdy wymaga tego obowiązek prawny."
+      ],
+      [
+        "Przetwarzanie poza EOG",
+        "Netlify i Google mogą przetwarzać dane poza Europejskim Obszarem Gospodarczym, także w USA. Ich informacje opisują właściwe decyzje o odpowiednim poziomie ochrony i standardowe klauzule umowne dla innych objętych transferów: <a href=\"https://www.netlify.com/privacy/\">Netlify</a> i <a href=\"https://policies.google.com/privacy/frameworks?hl=pl\">Google</a>. O zabezpieczenia dotyczące zapytania oraz ich kopię możesz poprosić gospodarza."
+      ],
+      [
+        "Przechowywanie",
+        "Dane zapytania przechowujemy podczas udzielania odpowiedzi i uzgadniania pobytu. Po zakończeniu komunikacji i ustaniu potrzeby uzgodnień usuwamy dane bez innej podstawy przechowywania. Dane rezerwacyjne i ustawowe rejestry podlegają właściwym terminom prawnym; reklamacje przechowujemy rok od otrzymania. Dane konieczne dla konkretnego roszczenia przechowujemy do jego rozstrzygnięcia i upływu właściwych terminów. Kryteria dotyczą także kopii u wsparcia."
+      ],
+      [
+        "Twoje prawa",
+        "Na warunkach RODO przysługują ci prawa dostępu, sprostowania, usunięcia, ograniczenia i przenoszenia danych oraz sprzeciwu wobec przetwarzania opartego na uzasadnionym interesie. Ewentualną zgodę można wycofać bez wpływu na wcześniejsze zgodne z prawem przetwarzanie. Wnioski kieruj do gospodarza; zwykle odpowiadamy w ciągu miesiąca. Możesz złożyć skargę do <a href=\"https://azop.hr/\">chorwackiego organu ochrony danych AZOP</a>."
+      ],
+      [
+        "Cookies i linki zewnętrzne",
+        "Strona nie używa analitycznych ani marketingowych cookies. Hosting może prowadzić logi techniczne, np. adres IP, czas i żądaną stronę, dla działania i bezpieczeństwa. Linki do WhatsApp, Google, Facebook, Instagram i Apartmanija otwierają odrębne usługi z własnymi zasadami. Nie podejmujemy zautomatyzowanych decyzji ani nie profilujemy gości ze skutkami prawnymi lub podobnie istotnymi."
+      ]
+    ]
+  }
+}

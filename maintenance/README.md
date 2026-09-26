@@ -26,7 +26,7 @@ Arhiva služi cjeniku, ne stanju raspoloživosti. Dostupnost smještaja i dalje 
 ## Ručne obveze
 
 - Sačuvati izvorni cjenik i dokaz o redovnim cijenama na referentni datum.
-- Provjeriti s domaćinom uključuje li cijena sve obvezne naknade; nepodržane naknade nisu izmišljene niti dodane.
+- Domaćin je 26.9.2026. potvrdio da cijene uključuju turističku pristojbu, čišćenje i sve obvezne troškove. Revizija 2 bilježi tu informaciju, bez promjene bilo kojeg od 18 iznosa. Za drukčiji model naplate prvo uskladiti tekst i generator.
 - Zasebno provjeriti i urediti cijene ugostiteljskih usluga ako se posluje kao Caffe Bar Zona. Ova prilagodba pokriva samo objavljene usluge smještaja.
 - Kod promjene propisa provjeriti NN i najnovije službene upute. Nije postavljeno automatsko pravno praćenje niti obećana trajna usklađenost.
 
@@ -34,3 +34,7 @@ Izvori:
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_101_1212.html
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_101_1213.html
 - https://www.hok.hr/novosti-iz-hok/dodatna-cijena-i-objava-cjenika-od-1-listopada-2026-najvaznije-informacije
+
+## Dorade od 26.9.2026.
+
+Pet prijevoda obavijesti o uključenim troškovima nalazi se u `zona-legal-copy.json`, koju koristi i generator. Nove stranice `/uvjeti/` imaju odgovarajuće jezične inačice i uključuju postupak prigovora. Kopija upita Studiju ostaje uključena radi podrške, prema potvrdi korisnika. Nepotvrđeni registrirani podaci pružatelja i točni komercijalni uvjeti vode se u zapisniku pripreme; ne pretpostavljati da je objava nacrta njihova potvrda.
